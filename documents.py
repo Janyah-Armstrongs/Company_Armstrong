@@ -1,0 +1,1 @@
+print('Welocme to Armstrong_co')
